@@ -52,7 +52,7 @@ jobs:
       uses: actions/upload-artifact@65462800fd760344b1a7b4382951275a0abb4808 # v4.3.3
       if: success()
       with:
-        name: GeyserConnect
-        path: build/libs/GeyserConnect.jar
+        name: GMCEnchantmentsAdapter
+        path: build/libs/GMCEnchantmentsAdapter.jar
         if-no-files-found: error
           
