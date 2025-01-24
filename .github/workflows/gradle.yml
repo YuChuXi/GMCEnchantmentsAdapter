@@ -53,6 +53,6 @@ jobs:
       if: success()
       with:
         name: GMCEnchantmentsAdapter
-        path: build/libs/GMCEnchantmentsAdapter.jar
+        path: build/libs
         if-no-files-found: error
           
