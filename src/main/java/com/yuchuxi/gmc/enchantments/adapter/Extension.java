@@ -1,4 +1,4 @@
-package com.yuchuxi.gmc.enchantments.adapter.Extension;
+package com.yuchuxi.gmc.enchantments.adapter;
 
 import org.geysermc.event.subscribe.Subscribe;
 import org.geysermc.geyser.api.event.lifecycle.GeyserLoadResourcePacksEvent;
