@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.yuchuxi.gmc.enchantments.adapter'
+group = 'com.yuchuxi.gmc'
 version = '1.0.0'
 
 repositories {

@@ -1,6 +1,6 @@
-id: GMCEnchantmentsAdapter
+id: yuchuxi.gmc
 name: GMCEnchantmentsAdapter
-main: com.yuchuxi.gmc.enchantments.adapter.Extension
+main: com.yuchuxi.gmc.EnchantmentsAdapter
 api: 2.6.0
 version: 1.0.0
 authors: [YuChuXi]
